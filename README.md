@@ -1,24 +1,5 @@
 
 BE Mesh: A Bluetooth Low Energy Mesh Network
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/MeshBle)
-===================================
-
-<img align="left" src="https://www.uniroma1.it/sites/default/files/images/logo/sapienza-big.png"/>
-<img align="right" src="https://infocom2019.ieee-infocom.org/sites/infocom2019.ieee-infocom.org/files/ieee-infocom2.png"/>
-
-<br><br><br><br><br><br><br><br>
-
-
-***Andrea Lacava∗, Gianluigi Nero∗, Pierluigi Locatelli∗, Francesca Cuomo∗, Tommaso Melodia†***
-
-***∗University of Rome “La Sapienza”, 00184, ITALY; †Northeastern University, MA 02115, USA***
-
-*Abstract* - We   propose   and   discuss BE-Mesh-Bluetooth low Energy-Meshed network,  a  new  paradigm  for  BLE  (BluetoothLow  Energy)  that  enables  mesh  networking  among  wirelessly interconnected   devices,   both   in   a   single   hop   and   multi-hop fashion.  Starting  from  the  classical  Master/Slave  paradigm  of Bluetooth,  we  build  two  new  layers  based  on  BLE  stack  that allow the final user to set-up, in a fast way, the desired network topology while hiding the complexity and low-level details of the BLE  stack.  We  also  prototype,  as  a  proof  of  concept,  an  open source  Android  library that  implements  our  communication paradigm  and  an  Android  application  that  allows  the  exchange of text messages across the mesh network. Last, we demonstrate how  BE-Mesh  enables  Internet  access  sharing  with  the  whole mesh  from  a  single  Internet-connected  device.
-
-- Follow our Official BE Mesh Twitter account: [@MeshBle](https://twitter.com/MeshBle).
-- This work was presented at [Infocom 2019](https://infocom2019.ieee-infocom.org/postersdemos).
-- Lower tier of [HIRO-NET](https://github.com/HIRO-NET-Emergency-Network/HIRO-NET).
-- Read the [demo paper](https://ieeexplore.ieee.org/document/8845084).
 
 # Create a Be Mesh!
 
